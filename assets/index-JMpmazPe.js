@@ -846,8 +846,6 @@ EN 14683 standardındaki sınıflar:
 | Tip II | En az %98 | Yok |
 | Tip IIR | En az %98 | Var |
 
-Akdeniz Temizlik Ürünleri'nin 3 katlı cerrahi maskesi, ürün bilgisinde Tip IIR ve BFE ≥ %99 olarak belirtilmektedir.
-
 ---
 
 ## Satın Alırken Bakılacak 5 Nokta
