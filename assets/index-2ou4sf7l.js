@@ -2471,78 +2471,102 @@ Mavi renk gıdaların çoğunda doğal olarak bulunmaz. Önlükten kopan bir par
 
 100 adetlik poşetlerde, 1.000 adetlik kolilerde gelir.
 `,wt=`---
-baslik: Pres Koli Galoş (1.000 Adet) ve Mikron Kalınlıklarının Depolama & Nakliye Avantajı
-ozet: Hastaneler, klinikler ve gıda fabrikalarında günde binlerce adet tüketilen galoşlarda depolama alanından %65 tasarruf sağlayan presleme teknolojisi ve yırtılmaz çift lastik özellikleri.
+baslik: Pres Koli Galoş (1.000 Adet): Depolama ve Nakliyede Sağladığı Kolaylık
+ozet: 1.000 adet PE galoşun 20 x 30 x 11 cm preslenmiş koliye sığmasının depolama ve sevkiyattaki faydasını, galoşun ölçüsünü ve kullanım alanlarını özetledik.
 kategori: Malzeme Bilimi
 tarih: 2026-11-07
-okuma_suresi: 5 dk okuma
+okuma_suresi: 4 dk okuma
 yazar: Hakan Sarıalioğlu
 yazar_unvani: Kurucu & Hijyen Uzmanı
 yayinda: evet
 bolgeler:
-  - İstanbul Avrupa Yakası (Bayrampaşa, Fatih, Şişli, Bakırköy)
-  - İstanbul Anadolu Yakası (Kadıköy, Ümraniye, Pendik)
-  - Ankara Medikal & Klinik Merkezleri
-  - İzmir Özel Hastaneler & Laboratuvarlar
+  - İstanbul
+  - Türkiye geneli (81 il)
 ilgili_urunler:
   - polietilen-naylon-galos-standart
   - nonwoven-tela-galos
-  - beyaz-lastikli-maske-cift-kat
+  - kaydirmaz-tabanli-galos
 anahtar_kelimeler:
   - pres koli galoş
   - toptan galoş istanbul bayrampaşa
   - polietilen naylon galoş 1000 adet
-  - çift lastikli galoş
+  - preslenmiş koli galoş
   - nonwoven tela galoş toptan
   - hastane galoşu koli fiyatı
 ---
 
-## Hijyen Girişlerinde En Yüksek Sarf Kalemi: Galoş Tüketimi
+## Kısa Cevap
 
-Gıda imalathaneleri, diş klinikleri, hastaneler, kreşler ve spor salonlarında galoş, günlük bazda en yüksek hacimde tüketilen tek kullanımlık hijyen malzemesidir. Binlerce çalışanı ve ziyaretçisi olan kurumsal bir tesiste aylık galoş tüketimi on binlerce adede ulaşabilir.
-
-Bu ölçekte iki temel operasyonel darboğaz ortaya çıkar:
-1. **Depo Alanı İsrafı**: Klasik dökme koliler hava dolu olduğundan devasa hacim kaplar.
-2. **Kullanım Esnasında Yırtılma**: İnce, tek lastikli kalitesiz galoşlar ayakkabıya geçirilirken yırtılır ve çöpe gider.
+Pres koli galoş, 1.000 adet polietilen (PE) naylon galoşun preslenerek yaklaşık 20 x 30 x 11 cm ölçüsündeki küçük bir koliye yerleştirilmesidir. Koli küçük olduğu için depoda ve rafta az yer kaplar, taşınması ve sevk edilmesi kolaylaşır. Galoş paketten çıktığında açılır ve 39-40 cm x 11-12 cm ölçüsüyle bot dahil ayakkabılara giyilebilir. Pres koli, galoşun günlük olarak yüksek adetlerde kullanıldığı hastane, klinik ve gıda tesislerinde stok tutmayı kolaylaştırır.
 
 ---
 
-## 20 x 30 x 11 cm Pres Koli Teknolojisi Nasıl Fark Yaratır?
+## Galoş Neden Çok Yer Kaplar?
 
-Akdeniz Temizlik Ürünleri olarak geliştirdiğimiz pres koli formatı, sektördeki depo ve lojistik maliyetlerini kökten değiştirmektedir.
+Hastane, klinik, gıda tesisi, kreş ve spor salonu gibi yerlerde galoş her giriş çıkışta değiştirilir. Personel ve ziyaretçi sayısı arttıkça aylık tüketim binlerce adede ulaşabilir.
 
-| Kriter | Standart Dökme Galoş Kolisi | Akdeniz Pres Koli Galoş (1.000 Adet) |
-|---|---|---|
-| **Koli Ölçüleri** | ~ 60 x 45 x 40 cm | **20 x 30 x 11 cm (Kompakt)** |
-| **Kapladığı Hacim** | ~ 108 Desi | **~ 6.6 Desi (%94 Hacim Tasarrufu)** |
-| **Koli İçi Adet** | 1.000 Adet (Karışık/Kırışık) | **1.000 Adet (Preslenmiş 100'lük Rulo)** |
-| **Depo Raf Verimliliği** | 1 Palete ~ 16 Koli sığar | **1 Palete ~ 120 Koli sığar** |
-| **Nakliye & Ambar Avantajı** | Yüksek navlun ücreti | **Minimum kargo / nakliye maliyeti** |
-
-İstanbul Bayrampaşa'daki merkez depomuzdan Türkiye'nin en ücra köşesine kadar ambar ve kargo maliyetlerinde sağlanan bu tasarruf, müşterilerimize doğrudan **en rekabetçi fiyat** olarak yansımaktadır.
+Galoş hafif bir üründür ama preslenmeden kolilendiğinde arasında çok hava kalır. Bu da aynı adet için daha büyük koli, daha fazla raf alanı ve daha fazla taşıma hacmi demektir.
 
 ---
 
-## Çift Sıra Ultrasonik Lastik Güvencesi
+## Pres Kolinin Faydaları
 
-Piyasadaki ucuz galoşların en büyük sorunu tek lastikli olması ve giyim anında topuk kısmından patlamasıdır. Akdeniz pres koli galoşlarında:
-* **Çift Dikişli Ultrasonik Lastik**: Çift sıra lastik kopma riskini minimize eder.
-* **Kaydırmaz Yüzey**: Islak zeminlerde personelin ve ziyaretçilerin kayıp düşmesini engelleyen mikro pütürlü doku.
-* **Dayanıklı PE Formül**: Çakıl taşı, sert ayakkabı tabanı veya topuklu ayakkabılara karşı delinmeye dirençli esnek polietilen hammadde.
+* **Az yer kaplar:** 1.000 adet galoş yaklaşık 20 x 30 x 11 cm ölçüsündeki bir koliye sığar. Bu, yaklaşık 6,6 litrelik bir hacimdir.
+* **Stok tutmak kolaylaşır:** Küçük koliler depo rafına, dolaba veya giriş noktasındaki bir köşeye rahatça yerleştirilir.
+* **Sevkiyat kolaylaşır:** Küçük ve düzgün koliler kargo ve ambarla taşınırken daha az hacim kaplar.
+* **Sayım kolaylaşır:** Her kolide 1.000 adet bulunduğu için aylık tüketim koli sayısıyla takip edilebilir.
+
+---
+
+## Galoşun Özellikleri
+
+| Özellik | Bilgi |
+|---|---|
+| Malzeme | %100 polietilen (PE) |
+| Ölçü | 39-40 cm x 11-12 cm |
+| Üretim | Otomatik makinelerde, el değmeden ultrasonik dikiş |
+| Renk | Mavi (talep üzerine özel renk) |
+| Ambalaj | 1.000 adet / preslenmiş koli (yaklaşık 20 x 30 x 11 cm) |
+
+PE galoş su ve sıvı geçirmez. Tabanı düz olduğu için ıslak ve kaygan zeminlerde kaydırmaz tabanlı galoş tercih edilmelidir.
+
+---
+
+## Hangi Alanlarda Kullanılır?
+
+* Hastane ve klinik girişleri, bekleme salonları
+* Gıda üretim tesislerinin kuru zeminli alanları
+* Kreşler, spor salonları ve güzellik merkezleri
+* Ev ve ofis ziyaretleri
+
+---
+
+## Toptan Alımda Pratik Bilgiler
+
+* PE galoşlar **1.000 adetlik preslenmiş kolilerde** gelir.
+* Daha dayanıklı ve geniş kalıplı bir galoş gerekiyorsa **nonwoven tela galoş** (39-40 cm x 13-14 cm) tercih edilebilir.
+
+Akdeniz Temizlik Ürünleri, 2001 yılından bu yana İstanbul Bayrampaşa'dan hastanelere, kliniklere ve gıda tesislerine galoş ve tek kullanımlık hijyen ürünlerini toptan tedarik etmektedir. Siparişler Bayrampaşa deposundan aynı gün sevk edilir; İstanbul içine ve Türkiye'nin 81 iline ambar ve kargo ile gönderim yapılır.
+
+---
 
 ## Sıkça Sorulan Sorular
 
-### Pres koli galoşun standart kolilerden farkı nedir?
+### Pres koli galoş nedir?
 
-Standart dökme galoş kolileri 60x40x40 cm gibi devasa boyutlara sahipken, Akdeniz Temizlik Ürünleri pres koli galoşları özel hidrolik presleme yöntemiyle yalnızca 20x30x11 cm kompakt ebatlara indirilir. İçerisinde net 1.000 adet galoş bulunur.
+1.000 adet PE naylon galoşun preslenerek yaklaşık 20 x 30 x 11 cm ölçüsündeki küçük bir koliye yerleştirilmesidir. Depoda ve sevkiyatta az yer kaplar.
 
-### Presleme galoşun elastikiyetine veya formuna zarar verir mi?
+### Presleme galoşa zarar verir mi?
 
-Hayır, kullanılan birinci sınıf saf polietilen (PE) granül ve esnek çift sıra lastik presleme sonrasında paketten çıkar çıkmaz orijinal esnekliğine kavuşur; kesinlikle yapışma veya yırtılma yaşanmaz.
+Galoş paketten çıkarıldığında açılır ve normal şekilde ayakkabıya giyilir.
 
-### İş ayakkabısı ve botlarla kullanılabilir mi?
+### Pres koli galoş bota olur mu?
 
-Galoşlarımız net 39-40 cm boyunda açılır. 45-46 numara kışlık botlar ve çelik burunlu iş ayakkabıları dahil her tür ayakkabıya rahatlıkla giyilebilir.
+Galoş 39-40 cm x 11-12 cm ölçüsündedir ve bot dahil ayakkabılara giyilebilir.
+
+### Islak zeminde PE galoş kullanılır mı?
+
+PE galoşun tabanı düzdür. Islak ve kaygan zeminlerde tabanında desenli kabartma bulunan kaydırmaz tabanlı galoş tercih edilmelidir.
 `,Tt=`---
 baslik: Sanayi Tesislerinde Kontaminasyonu Önlemeye Yardımcı Tek Kullanımlık Ürünler
 ozet: Elektronik, ilaç, kozmetik, plastik ve boya gibi sanayi tesislerinde insan kaynaklı kontaminasyonu azaltan bone, tulum, eldiven ve galoş seçimini özetledik.
