@@ -906,7 +906,7 @@ Cerrahi maske solunum koruyucu değildir. Toz ve ince partiküllere karşı FFP2
 50 adetlik kutularda, 40 kutu (2.000 adet) koli olarak gelir.
 `,dt=`---
 baslik: Endüstriyel Mutfak ve Bulaşıkhanelerde Kolluk Seçimi: Penye Ribana vs Lastikli Ribana
-ozet: Gıda ile çalışan personelin kol kıllarının, ter damlacıklarının ve yabancı maddelerin ürüne geçmesini engelleyen tela kolluklarda dirsek lastiği ve bilek manşeti ergonomisi.
+ozet: Gıda ile çalışan personelin kol kıllarının ve yabancı maddelerin ürüne geçmesini azaltan tela kolluklarda penye ribanalı ve lastik ribanalı modellerin farkı.
 kategori: Endüstriyel & Mutfak
 tarih: 2026-11-06
 okuma_suresi: 5 dk okuma
@@ -935,38 +935,43 @@ anahtar_kelimeler:
 
 Gıda imalatında çalışan aşçılar, kasaplar, unlu mamul ustaları ve catering personeli genellikle bone ve eldiven kullanımına özen gösterir; ancak dirsek ile bilek arasındaki bölge çoğu zaman açıkta kalır. Kollar üzerindeki tüyler, ter damlacıkları veya kıyafet lifleri yoğurma kazanlarına, hazırlık tezgahlarına veya porsiyonlama kaplarına kolaylıkla dökülebilir.
 
-Bu riskin önüne geçmek için geliştirilen **tek kullanımlık tela kolluklar**, hem hijyen bariyeri oluşturur hem de personelin kendi giysisini yağ, sos ve sudan korur.
+**Tek kullanımlık tela kolluklar** bu bölgeyi örter; kol kıllarının ve kıyafet liflerinin ürüne geçmesini azaltır ve personelin giysisini kirden korur. Sıvıya karşı bariyer gerekiyorsa PE naylon kolluk veya önlük birlikte kullanılır.
 
 ---
 
 ## İki Farklı Model: Hangi Sektöre Hangisi Uygundur?
 
-### 1. Nonwoven Penye Ribanalı Kolluk (Premium Konfor)
-* **Bilek Yapısı**: Likralı yumuşak penye manşet (ribana). Bileği kan dolaşımını engellemeden tam kavrar.
-* **Dirsek Yapısı**: Geniş örme lastikli; kol hareket ettikçe dirsekten aşağı kaymaz.
-* **Kumaş**: 20 g/m² saf nonwoven tela; nefes alır, personelin kolunu terletmez.
+### 1. Nonwoven Penye Ribanalı Kolluk
+* **Bilek yapısı**: Likralı yumuşak penye manşet (ribana); bileği sıkmadan kavrar.
+* **Dirsek yapısı**: Örme lastikli; kolun dirsekten aşağı kaymasını azaltır.
+* **Kumaş**: 20 g/m² nonwoven tela; hava geçirir, terletmez.
+* **Beden ve ambalaj**: Standart tek beden; 50 adetlik poşetlerde, 1.000 adetlik kolilerde gelir.
 * **İdeal Alanlar**: Catering mutfakları, pastaneler, çikolata imalatı, hassas montaj ve ilaç sanayi.
 
-### 2. Lastikli Ribanalı Kolluk (Ekonomik ve Hızlı Çözüm)
-* **Bilek ve Dirsek Yapısı**: Çift uçtan elastik büzgülü lastik.
-* **Pratiklik**: Saniyeler içinde giyilir ve çıkartılır.
+### 2. Lastik Ribanalı Kolluk
+* **Bilek yapısı**: Geniş örme lastik ribana manşet.
+* **Kumaş**: 15 g/m² nonwoven tela; daha hafif ve ekonomiktir.
+* **Pratiklik**: Kolay giyilir ve çıkarılır.
+* **Ambalaj**: 100 adetlik poşetlerde, 1.000 adetlik kolilerde gelir.
 * **İdeal Alanlar**: Yüksek sirkülasyonlu bulaşıkhaneler, sebze ayıklama hatları, okul yemekhaneleri ve temizlik işleri.
 
 ---
 
 ## Bulaşıkhane ve Islak Hatlar İçin Su Geçirmez Naylon Önlük Kombinasyonu
 
-Sıvı sıçramalarının yoğun olduğu bulaşıkhane, mezbaha ve balık temizleme istasyonlarında tela ürünlere ek olarak **su geçirmez PE naylon önlükler (beyaz ve mavi)** kullanılmalıdır. 30 ila 50 mikron kalınlığındaki polietilen önlüklerimiz personelin kıyafetlerinin kuru kalmasını sağlayarak hasta olmalarını önler ve iş verimini artırır.
+Sıvı sıçramasının yoğun olduğu bulaşıkhane, mezbaha ve balık temizleme alanlarında tela kolluğa ek olarak **su geçirmez PE naylon önlük (beyaz ve mavi)** kullanılabilir. %100 polietilenden üretilen, boyundan askılı ve arkadan bağlamalı 80 x 130 cm önlükler personelin kıyafetinin ıslanmasını ve kirlenmesini önler. Naylon önlükler 100 adetlik poşetlerde, 1.000 adetlik kolilerde gelir.
+
+Siparişler Bayrampaşa deposundan aynı gün sevk edilir; İstanbul içine ve Türkiye'nin 81 iline ambar ve kargo ile gönderim yapılır.
 
 ## Sıkça Sorulan Sorular
 
 ### Penye ribanalı kolluk ile lastikli kolluk arasındaki fark nedir?
 
-Penye ribanalı kollukların bilek kısmında likralı pamuklu/penye yumuşak manşet bulunur; 8-10 saatlik vardiyalarda bileği kesinlikle sıkmaz veya terletmez. Lastikli kolluklar ise her iki ucu ince elastik lastikle büzülmüş ekonomik alternatiftir.
+Penye ribanalı kollukların bilek kısmında likralı yumuşak penye manşet bulunur; uzun vardiyalarda daha rahat kullanılır. Lastik ribanalı kolluklarda ise bilekte geniş örme lastik ribana vardır; daha hafif kumaşlı ve ekonomik bir seçenektir.
 
-### Kolluklar gıda ile direkt temasa uygun mudur?
+### Kolluklar hangi malzemeden üretilir?
 
-Evet, %100 saf polipropilen dokusuz tela kumaştan üretilmiştir. Boya, toksik madde veya alerjen içermez; Türk Gıda Kodeksi ve hijyen yönetmeliklerine tam uyumludur.
+Tela kolluklar %100 polipropilen dokusuz tela kumaştan üretilir. Gıda ile temasa uygunluk belgesi gereken işlerde, belge ihtiyacınızı sipariş öncesinde bize iletebilirsiniz.
 `,ft=`---
 baslik: Esenler ve Bayrampaşa Sanayi Sitelerinde Denetime Hazırlık ve Kullan-At Ekipmanlar
 ozet: Atölyelerde denetim öncesi hazır bulunması gereken kullan-at koruyucu ürünleri ve alan bazlı kontrol listesini özetledik.
@@ -1561,7 +1566,7 @@ Kullanılabilir; ancak ürünle doğrudan temasın olduğu ve toz bırakılmamas
 Hayır. Eldiven takmadan önce ve çıkardıktan sonra eller yıkanmalıdır. Farklı işler arasında geçerken eldiven de değiştirilmelidir.
 `,gt=`---
 baslik: Gıda İşletmelerinde HACCP ve Renk Kodlu Bone Standartları: Kırmızı Bone ve Alerjen Ayrımı
-ozet: Gıda üretim tesislerinde saç kaynaklı yabancı madde kontaminasyonunu engellemek ve çapraz bulaşmayı önlemek için renk kodlamasının önemi. Yeni nesil kırmızı bone ile kritik kontrol noktalarının yönetimi.
+ozet: Gıda üretim tesislerinde saç kaynaklı yabancı maddeyi azaltmak ve alanları ayırmak için renk kodlu bone kullanımı, kırmızı bonenin alerjen hatlarında kullanımı ve ebatları.
 kategori: Gıda Güvenliği & HACCP
 tarih: 2026-11-08
 okuma_suresi: 6 dk okuma
@@ -1588,59 +1593,63 @@ anahtar_kelimeler:
   - nonwoven tela bone 40x40 45x45 52x52
 ---
 
-## Gıda Güvenliğinde Saç Kontaminasyonu Neden En Büyük Tehdittir?
+## Gıda Üretiminde Saç Neden Önemli Bir Risktir?
 
-Gıda imalatı ve endüstriyel mutfaklarda müşteri şikayetlerinin ve ürün geri çağırmalarının en sık rastlanan nedenlerinden biri yabancı madde kontaminasyonudur. İnsan saçı, hem biyolojik (mikroorganizmalar ve kafa derisi florası) hem de fiziksel risk barındırır. Standart bir insanda günde ortalama 50 ila 100 tel saç dökülmektedir; bu durum fırın, et entegre tesisi, süt mamulleri veya hazır yemek fabrikası gibi yüksek tempolu ortamlarda kritik bir tehdit oluşturur.
+Gıda imalatı ve endüstriyel mutfaklarda müşteri şikayetlerinin sık görülen nedenlerinden biri yabancı maddedir. Saç, hem fiziksel bir yabancı madde hem de mikroorganizma taşıyabilen bir kaynaktır. İnsan günde doğal olarak bir miktar saç döker; fırın, et tesisi, süt ürünleri veya hazır yemek üretimi gibi kalabalık ortamlarda bu risk büyür.
 
-Bu riskin önüne geçmenin en pratik, ekonomik ve yasal gerekliliklere tam uyumlu yolu **tek kullanımlık akordiyon cerrahi bonelerin** kuralına uygun biçimde kullanılmasıdır.
+Bu riski azaltmanın pratik ve ekonomik yollarından biri, **tek kullanımlık akordiyon bonenin** saçı tamamen içine alacak şekilde doğru takılmasıdır.
 
 ---
 
-## HACCP Standartlarında Renk Kodlama Disiplini
+## Gıda Tesislerinde Renk Kodlu Bone Kullanımı
 
-Uluslararası gıda güvenliği sistemlerinde (HACCP, ISO 22000, BRCGS, IFS) departmanlar arası çapraz kontaminasyonu engellemek adına renk ayrımı hayati önem taşır:
+HACCP, ISO 22000, BRCGS veya IFS gibi sistemlerle çalışan tesisler, alanlar arası geçişi kontrol etmek için renk kodlaması kullanabilir. Bu standartlar belirli bir renk şart koşmaz; hangi rengin hangi alana ait olduğunu işletme kendi planında belirler. Sık görülen bir örnek düzen:
 
 * **Beyaz Bone**: Standart hijyen, laboratuvar kontrol, süt ve unlu mamul işleme hatları.
-* **Mavi Bone**: Et, tavuk, balık ve su ürünleri işleme tesisleri (mavi renk gıdalarda doğal bulunmadığından yabancı madde olarak kolaylıkla tespit edilir).
-* **Yeşil Bone**: Yaş sebze, meyve, salata hazırlık ve organik tarım işleme alanları.
-* **Sarı Bone**: Kuru gıda paketleme, lojistik, depolama ve malzeme kabul bölümleri.
-* **Kırmızı Bone (Özel Alerjen & Kritik Hat)**: Gluten, fıstık, soya gibi alerjen içeren ürün hatları, karantina bölümleri, temizlik vardiyaları ve acil müdahale ekipleri.
+* **Mavi Bone**: Et, tavuk, balık ve su ürünleri işleme alanları (mavi renk gıdalarda doğal olarak bulunmadığı için üründe kolay fark edilir).
+* **Yeşil Bone**: Yaş sebze, meyve ve salata hazırlık alanları.
+* **Pembe Bone**: Paketleme, depo veya ziyaretçi gibi ayrı tutulmak istenen gruplar.
+* **Kırmızı Bone (Alerjen ve Ayrı Hatlar)**: Gluten, fıstık, soya gibi alerjen içeren ürün hatları, karantina bölümleri ve temizlik vardiyaları.
+
+Bu liste bir örnektir; renk planı işletmenin kendi alanlarına göre yapılmalıdır.
 
 ---
 
-## Kırmızı Bonenin Sektöre Kazandırdığı Denetim Kolaylığı
+## Kırmızı Bone Denetimi Nasıl Kolaylaştırır?
 
-Ürün portföyümüze yeni eklenen **Kırmızı Akordiyon Bone**, özellikle kurumsal gıda üreticilerinden gelen yoğun talep üzerine devreye alınmıştır. İşletme müdürleri ve kalite denetçileri, geniş fabrika zemininde personelin doğru alanda bulunup bulunmadığını onlarca metre uzaktan saniyeler içinde tespit edebilmektedir.
+**Kırmızı akordiyon bone**, diğer renklerden kolay ayırt edilir. İşletme müdürleri ve kalite sorumluları, üretim alanında personelin doğru bölümde olup olmadığını uzaktan görebilir.
 
 ### Kırmızı Bone Boyut Seçenekleri
-Personel konforunu maksimum düzeyde tutmak amacıyla 4 farklı ebat seçeneği sunulmaktadır:
-1. **40 cm x 40 cm**: Kısa saçlı personel ve standart erkek çalışanlar için kompakt, tam oturan form.
-2. **45 cm x 45 cm**: Genel kullanım için en çok tercih edilen konforlu standart ölçü.
+Farklı saç uzunluklarına uyması için 4 ebat seçeneği vardır:
+1. **40 cm x 40 cm**: Kısa saçlı personel için.
+2. **45 cm x 45 cm**: Genel kullanım için standart ölçü.
 3. **45 cm x 52 cm**: Orta ve uzun saçlı çalışanlar için ekstra derinlik sağlayan kalıp.
-4. **52 cm x 52 cm**: Yoğun, gür veya topuz yapılmış saçları tamamen içine alan, kulak arkasını sıkmayan ekstra geniş form.
+4. **52 cm x 52 cm**: Gür veya topuz yapılmış saçları içine alan geniş form.
 
 ---
 
-## Kalite Kriterleri: Ultrasonik Çift Lastik ve Nonwoven PP Tela
+## Bonede Nelere Bakılmalı?
 
-Piyasadaki kalitesiz bonelerde en sık rastlanan problem lastiğin kopması veya tek lastikli yapı nedeniyle kulak arkasını tahriş etmesidir. Akdeniz Temizlik Ürünleri olarak imalatımızda:
-* **Ultrasonik Dikiş Teknolojisi**: İğne delikleri olmadan otomatik makinelerde el değmeden birleştirilir.
-* **Çift Sıra Örme Lastik**: Baş çevresini eşit basınçla sarar, saç dökülmesini %100 engellerken baş ağrısı veya baskı hissi oluşturmaz.
-* **100% Polipropilen (PP)**: Gıdaya temas eden ortamlara uygun, lif dökmeyen, kokusuz ve neme dayanıklı nonwoven tela.
+Bonede en sık yaşanan sorunlar lastiğin kopması, gevşek kalması veya başı sıkmasıdır. Akdeniz Temizlik Ürünleri'nin akordiyon bonelerinde:
+* **Ultrasonik dikiş:** Boneler otomatik makinelerde, iğne kullanılmadan ultrasonik dikişle birleştirilir.
+* **Örme lastik:** Tek veya çift tel örme lastik seçeneği vardır; lastik başı sıkmadan saçı içeride tutar.
+* **%100 polipropilen (PP) tela:** Hava geçiren, terletmeyen dokusuz tela kumaştır.
+
+Akordiyon boneler 100 adetlik poşetlerde, 1.000 adetlik kolilerde gelir. Siparişler Bayrampaşa deposundan aynı gün sevk edilir; İstanbul içine ve Türkiye'nin 81 iline ambar ve kargo ile gönderim yapılır.
 
 ## Sıkça Sorulan Sorular
 
 ### Gıda işletmelerinde neden farklı renklerde bone tercih edilmelidir?
 
-HACCP ve BRCGS gıda güvenliği standartlarına göre personelin departman bazında (örneğin çiğ et hazırlığı, pişirme hattı, paketleme ve glütensiz/alerjen hatları) renk kodlamasıyla ayrılması çapraz bulaşma riskini sıfıra indirir. Kırmızı renk özellikle alerjen içerikli hatlarda ve karantina bölgelerinde denetimi kolaylaştırır.
+Personelin bölüm bazında (örneğin çiğ et hazırlığı, pişirme hattı, paketleme ve alerjen hatları) farklı renk bonelerle ayrılması, alanlar arası geçişin fark edilmesini kolaylaştırır ve çapraz bulaşma riskini azaltır. Kırmızı renk özellikle alerjen hatlarında ve karantina bölgelerinde denetimi kolaylaştırır. Hangi rengin hangi alanda kullanılacağını işletme kendi hijyen planında belirler.
 
 ### Kırmızı bone hangi ebatlarda üretilmektedir?
 
-Akdeniz Temizlik Ürünleri bünyesinde kırmızı akordiyon boneler 40 cm x 40 cm, 45 cm x 45 cm, 45 cm x 52 cm ve 52 cm x 52 cm ebatlarında üretilmektedir. Böylece kısa saçtan uzun ve toplu saçlara kadar personelin başını tam kavrayarak dar gelme veya kayma yapmaz.
+Kırmızı akordiyon boneler 40 cm x 40 cm, 45 cm x 45 cm, 45 cm x 52 cm ve 52 cm x 52 cm ebatlarında bulunur. Kısa saçtan uzun ve toplu saça kadar farklı personele uygun ebat seçilebilir.
 
 ### Nonwoven tela boneler hava geçirgen midir?
 
-Evet, %100 saf polipropilen (PP) dokusuz nonwoven tela kumaştan üretilen bonelerimiz mikro gözenekli yapısı sayesinde hava sirkülasyonu sağlar, çalışma süresince personelin saç diplerinde terleme yapmaz ve cilt tahrişine yol açmaz.
+Evet. %100 polipropilen (PP) dokusuz tela kumaştan üretilen boneler hava geçirir ve çalışma süresince terletmez.
 `,_t=`---
 baslik: Gıda Üretim Tesislerinde Kullanılması Gereken Tek Kullanımlık Hijyen Ürünleri Nelerdir?
 ozet: Gıda üretim tesislerinde personel ve ziyaretçiler için gereken bone, maske, önlük, kolluk ve eldiven seçimini, giyilme sırası ve bölümlere göre özetledik.
@@ -2086,7 +2095,7 @@ Müşterinin önünde yeni açılan bone, eldiven ve önlük, hijyenin görünü
 Pet eldiven standart L bedendir. Nitril eldivenler S, M ve L bedenlerinde bulunur.
 `,bt=`---
 baslik: İstanbul Bayrampaşa'dan Türkiye Geneline Toptan Hijyen Sarf Malzemesi Tedarik Avantajları
-ozet: 2001 yılından bu yana Kocatepe Mahallesi merkezimizden fabrikalara, hastanelere ve kurumlara kesintisiz stok, söz verilen zamanda teslimat ve koşulsuz iade garantisiyle toptan tedarik modeli.
+ozet: 2001 yılından bu yana Bayrampaşa Kocatepe Mahallesi'ndeki depomuzdan fabrikalara, hastanelere ve kurumlara aynı gün sevk, koli bazında toptan satış ve koşulsuz ürün iade garantisiyle çalışan tedarik modelimiz.
 kategori: Toptan Tedarik & Lojistik
 tarih: 2026-11-04
 okuma_suresi: 6 dk okuma
@@ -2105,7 +2114,7 @@ ilgili_urunler:
   - beyaz-lastikli-maske-cift-kat
 anahtar_kelimeler:
   - bayrampaşa toptan hijyen sarf malzemeleri
-  - istanbul bone üreticisi akdeniz temizlik
+  - istanbul toptan bone akdeniz temizlik
   - hakan sarıalioğlu temizlik ürünleri
   - toptan koli hijyen malzemesi
   - kocatepe mahallesi 26. sokak bayrampaşa
@@ -2114,23 +2123,23 @@ anahtar_kelimeler:
 
 ## 2001 Yılından Bugüne Değişmeyen Hizmet Felsefemiz
 
-2001 yılı sonunda Hakan Sarıalioğlu tarafından kurulan **Akdeniz Temizlik Ürünleri**, özellikle tek kullanımlık hijyen ürünleri alanında değişik sektörlerden yüzlerce değerli müşterisine kesintisiz hizmet vermektedir.
+2001 yılı sonunda Hakan Sarıalioğlu tarafından kurulan **Akdeniz Temizlik Ürünleri**, özellikle tek kullanımlık hijyen ürünleri alanında değişik sektörlerden müşterilerine hizmet vermektedir.
 
-Sektörde 25 yıla yaklaşan deneyimimizle belirlediğimiz üç ana ilke:
-1. **Hızlı ve Söz Verilen Zamanda Servis**: Üretim hatlarının sarf malzeme eksikliği yüzünden durmasına asla izin vermeyiz.
-2. **Gerçekten Rekabetçi Fiyatlar**: İmalatçı ve doğrudan toptancı kimliğimizle aracı komisyonlarını ortadan kaldırarak doğrudan birinci el fiyat sunarız.
-3. **Koşulsuz Ürün İade Garantisi**: Kalitemizin arkasındayız; müşterimizin onaylamadığı hiçbir parti faturalandırılmaz.
+Çalışma şeklimizi üç ilke belirler:
+1. **Hızlı ve Söz Verilen Zamanda Servis**: Siparişler Bayrampaşa deposundan aynı gün sevk edilir; teslim için verilen söz tutulur.
+2. **Gerçekten Rekabetçi Fiyatlar**: Ürünler koli bazında toptan satılır; fiyat teklifi ürün, adet ve sevk yerine göre verilir.
+3. **Koşulsuz Ürün İade Garantisi**: Memnun kalmadığınız ürün için değişim veya iade yapılır.
 
 ---
 
-## Neden Bayrampaşa Lojistik Lokasyonu Çok Önemli?
+## Bayrampaşa'dan Sevkiyat Nasıl Yapılır?
 
-İstanbul Bayrampaşa (Kocatepe Mahallesi 26. Sokak No: 49/A), Türkiye'nin gıda ve toptan ticaret kalbi olan Mega Center ve kuru gıda hallerine, E-5 ve TEM bağlantı yollarına birkaç dakikalık mesafededir.
+Depomuz İstanbul Avrupa Yakası'nda, Bayrampaşa Kocatepe Mahallesi 26. Sokak No: 49/A adresindedir. Mega Center ve Rami toptancı bölgesine, E-5 ve TEM bağlantı yollarına yakındır.
 
-Bu merkezi konum sayesinde:
-* **İstanbul İçi Aynı Gün Servis**: İkitelli, Başakşehir, Esenyurt, Dudullu, Tuzla gibi sanayi hatlarına kendi servis araçlarımızla veya hızlı kurye ile anında teslimat.
-* **Marmara ve Anadolu'ya Aynı Gün Ambar Teslimatı**: Zeytinburnu ve Hadımköy ambar merkezlerine her gün düzenli çıkış yapılarak Türkiye'nin 81 ilindeki fabrikalara 24-48 saat içinde koli teslimatı sağlanmaktadır.
-* **Sıfır Stok Riski**: Yüksek depo kapasitemiz sayesinde müşterilerimiz kendi depolarında gereksiz stok tutmak zorunda kalmaz; ihtiyaç duydukları an sipariş verirler.
+* **Aynı gün sevk:** Siparişler Bayrampaşa deposundan aynı gün sevk edilir.
+* **İstanbul içi:** İkitelli, Başakşehir, Esenyurt, Dudullu, Tuzla gibi sanayi bölgeleri dahil İstanbul'un tamamına gönderim yapılır.
+* **Türkiye geneli:** Türkiye'nin 81 iline ambar ve kargo ile gönderim yapılır. Teslim süresi gidilen il ve taşıyıcıya göre değişir.
+* **Stok planı:** Düzenli kullanılan ürünler stokta tutulur. Aylık tüketiminizi koli bazında planlamak, kendi deponuzda gereğinden fazla ürün tutmadan sipariş vermenizi kolaylaştırır.
 
 ---
 
@@ -2145,15 +2154,15 @@ Bu merkezi konum sayesinde:
 
 ### Minimum sipariş miktarı ve paketleme nasıldır?
 
-Tüm ürünlerimiz kurumsal toptan koli bazında satılmaktadır. Bonelerde koli içi 1.000 adet (10x100), galoşta 1.000 adet (pres koli), önlüklerde 100 adet, tulumlarda 50 adetlik standart sağlam kolilerde sevk edilir.
+Tüm ürünlerimiz kurumsal toptan koli bazında satılmaktadır. Boneler 100 adetlik poşetlerde, 1.000 adetlik kolilerde; PE galoşlar 1.000 adetlik preslenmiş kolilerde; naylon önlükler 1.000 adetlik kolilerde; ziyaretçi önlükleri 100 adetlik, tulumlar 50 adetlik kolilerde sevk edilir.
 
 ### Koşulsuz ürün iade garantisi neleri kapsar?
 
-Akdeniz Temizlik Ürünleri olarak 2001'den beri taahhüdümüz açıktır: Sipariş ettiğiniz herhangi bir üründe ebat, lastik, kumaş kalitesi veya ambalaj ile ilgili en ufak bir memnuniyetsizlik yaşamanız durumunda ürünler derhal sorgusuz sualsiz geri alınır ve ücret iadesi veya ürün değişimi yapılır.
+Sipariş ettiğiniz bir üründe ebat, lastik, kumaş veya ambalaj ile ilgili memnun kalmadığınız bir durum olursa ürün sorgusuz sualsiz geri alınır; ürün değişimi veya ücret iadesi yapılır. İade için bizimle telefon veya WhatsApp üzerinden iletişime geçebilirsiniz.
 
 ### Numune seti talep edebilir miyiz?
 
-Evet, kurumsal satın alma birimleri ve fabrika yetkilileri için diledikleri renk boneler (kırmızı, beyaz, mavi, yeşil, pembe), galoşlar, kolluklar ve önlüklerden oluşan ücretsiz numune kitimizi aynı gün kargoya veriyoruz.
+Evet. İşletmeler; beyaz, mavi, yeşil, pembe ve kırmızı bonelerin yanı sıra galoş, kolluk ve önlük numunelerinden oluşan numune kitini ücretsiz talep edebilir. Kit kargo ile gönderilir, kargo ücreti alınmaz.
 `,xt=`---
 baslik: İstanbul Catering Firmaları İçin Toptan Hijyen Malzemeleri Alırken Dikkat Edilmesi Gerekenler
 ozet: Catering firmalarında merkez mutfaktan servis noktasına kadar gereken bone, eldiven, önlük ve maske seçimini ve toptan alımda dikkat edilecekleri özetledik.
@@ -3456,8 +3465,8 @@ Tela tulumlar standart XXL bedendir ve dar gelmez. Küçük beden özel üretiml
 
 Tela ve lamineli tulumlar tek tek poşetli olarak 50 adetlik kolilerde gelir.
 `,jt=`---
-baslik: Tek Kullanımlık Ziyaretçi Önlüğü ve Tulum Rehberi: Steril Ortam ve Ziyaretçi Hijyeni
-ozet: Dışarıdan gelen misafirlerin, denetçilerin ve yöneticilerin hijyenik alanlara girişinde elbiselerinden toz, tüy ve yabancı madde taşınmasını engelleyen pratik cırt bantlı önlükler ve XXL tulumlar.
+baslik: Tek Kullanımlık Ziyaretçi Önlüğü ve Tulum Rehberi: Hijyenik Alanlarda Ziyaretçi Kıyafeti
+ozet: Dışarıdan gelen misafirlerin, denetçilerin ve yöneticilerin hijyenik alanlara girişinde elbiselerinden toz, tüy ve yabancı madde taşınmasını azaltan cırt bantlı XL önlükler ve XXL tulumlar.
 kategori: Sağlık & Klinik Hijyeni
 tarih: 2026-11-05
 okuma_suresi: 5 dk okuma
@@ -3480,14 +3489,14 @@ anahtar_kelimeler:
   - cırt cırtlı misafir önlüğü
   - kapüşonlu tela tulum xxl
   - temiz oda ziyaretçi kıyafeti
-  - bayrampaşa önlük tulum üretimi
+  - bayrampaşa önlük tulum toptan
 ---
 
 ## Dış Dünyadan Üretim Alanına Taşınan Görünmez Riskler
 
-Fabrika denetimleri, müşteri ziyaretleri, stajyer turları veya teknik servis müdahaleleri sırasında dışarıdan gelen kişilerin günlük sokak kıyafetleri (palto, kazak, ceket) milyonlarca mikroskobik toz, polen, evcil hayvan tüyü ve bakteri barındırır.
+Fabrika denetimleri, müşteri ziyaretleri, stajyer turları veya teknik servis müdahaleleri sırasında dışarıdan gelen kişilerin günlük sokak kıyafetleri (palto, kazak, ceket) toz, polen, evcil hayvan tüyü ve lif taşıyabilir.
 
-Bu kişileri steril üretim veya paketleme alanlarına alırken kendi kıyafetlerini çıkarttırmak pratikte imkansızdır. İşte bu noktada **%100 polipropilen nonwoven tela ziyaretçi önlükleri ve tulumları**, dış giysinin üzerine giyilerek güvenli bir koruma kalkanı oluşturur.
+Bu kişileri üretim veya paketleme alanlarına alırken kendi kıyafetlerini çıkarttırmak çoğu zaman pratik değildir. **%100 polipropilen nonwoven tela ziyaretçi önlükleri ve tulumlar**, dış giysinin üzerine giyilerek kıyafetten ortama yabancı madde geçişini azaltır.
 
 ---
 
@@ -3497,14 +3506,14 @@ Bu kişileri steril üretim veya paketleme alanlarına alırken kendi kıyafetle
 
 ### 1. Tek Kullanımlık Ziyaretçi Önlüğü (Misafir Önlüğü)
 * **Kalıp**: Standart XL geniş kalıp (rahat hareket alanı).
-* **Detaylar**: Yakalı, kol ağızları elastik lastikli, önden boydan boya cırt bantlı.
+* **Detaylar**: Gömlek yakalı, kol ağızları yumuşak örme lastikli, önden cırt bantlı.
 * **Renkler**: Beyaz ve Lacivert.
 * **Kullanım Alanları**: Gıda üretim hatları, ambalaj tesisleri, hastane yönetim katları, okul ve laboratuvar ziyaretleri.
 * **Paketleme**: 1 Adet / Poşet, 100 Adet / Koli.
 
 ### 2. Tek Kullanımlık Koruyucu Tulum (Kapüşonlu)
 * **Kalıp**: Standart XXL geniş kalıp.
-* **Detaylar**: Entegre kapüşonlu, bel, el ve ayak bilekleri lastikli, önden fermuarlı tam koruma.
+* **Detaylar**: Kapüşonlu; bel, el ve ayak bilekleri lastikli; önden fermuarlı.
 * **Renkler**: Beyaz ve Lacivert.
 * **Kullanım Alanları**: Tozlu ve sıvılı ortamlar, boyahaneler, kimyasal temizlik süreçleri, hayvancılık ve ilaç temiz odaları.
 * **Paketleme**: 1 Adet / Poşet, 50 Adet / Koli.
@@ -3513,17 +3522,19 @@ Bu kişileri steril üretim veya paketleme alanlarına alırken kendi kıyafetle
 
 ## Terletmeyen Doku: 100% Saf Polipropilen Tela Avantajı
 
-Naylon veya PVC tulumların aksine nonwoven tela tulumlar nefes alabilir mikro-gözenekli yapıya sahiptir. Ziyaretçiler fabrika turu boyunca aşırı terleme veya havasızlık hissi yaşamazlar; vücut ısısı dengelenirken çevreye tüy veya kepek dökülmesi engellenir.
+Naylon veya PVC tulumlardan farklı olarak nonwoven tela önlük ve tulumlar hava geçirir. Ziyaretçiler tur boyunca terleme veya havasızlık hissi yaşamaz; kıyafetten ortama tüy ve lif geçişi azalır.
+
+Ziyaretçi önlükleri tek tek poşetli, 100 adetlik kolilerde; tulumlar tek tek poşetli, 50 adetlik kolilerde gelir. Siparişler Bayrampaşa deposundan aynı gün sevk edilir; İstanbul içine ve Türkiye'nin 81 iline ambar ve kargo ile gönderim yapılır.
 
 ## Sıkça Sorulan Sorular
 
 ### Ziyaretçi önlükleri standart beden midir? Kışlık kaban üzerine sığar mı?
 
-Önlüklerimiz standart geniş XL kalıptır; tulumlarımız ise standart XXL kalıpta üretilmektedir. Kesinlikle dar veya küçük gelme sorunu yaşanmaz; ziyaretçiler kışlık ceket veya kabanlarının üzerine bile rahatlıkla giyebilirler.
+Önlüklerimiz standart geniş XL kalıptır; tulumlarımız ise standart XXL kalıpta üretilmektedir. Geniş kalıpları sayesinde ziyaretçiler ceket veya mont üzerine de giyebilir. Tulumda küçük beden özel üretimle yapılabilir.
 
 ### Önlüklerin kapanış mekanizması nasıldır?
 
-Önden pratik açılıp kapanabilen dayanıklı cırt bantlıdır (velcro). Düğme veya fermuar kopması gibi riskler taşımaz; el değmeden saniyeler içinde giyilip çıkarılabilir.
+Önden açılıp kapanan cırt bantlıdır (velcro). Düğme veya fermuar olmadığı için kolayca giyilip çıkarılır.
 `,Mt=`---
 baslik: Temizlik Personeli İçin Güvenli Donanım: Kolluk, Eldiven ve Bone Kullanımı
 ozet: Temizlik personelinde işe göre eldiven seçimini, naylon ve tela kolluk farkını, bonenin görevini, giyme sırasını ve ürünlerin sınırlarını özetledik.
